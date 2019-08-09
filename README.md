@@ -1,6 +1,9 @@
 # NewsPaper-Blogger-Template
 News Paper is a impressive, professional, responsive, ultimate Blogger Template that perfectly suits for News, Personal Bloggers, Magazine, Shop websites. It is a perfect responsive and gorgeous SEO friendly and SEO optimized Blogger Template.With a focus on reducing bounce rates, while increasing ad exposure, this theme will keep your visitors scrolling with more content all while maximizing your ad revenue!
 
+
+<h3>Customized blogger Template @ $25 : <a href="https://www.fiverr.com/s2/ceb7759ae8" target="_blank">https://www.fiverr.com/s2/ceb7759ae8</a></h3>
+
 <h2>Documentation</h2>
 <div class="entry-content">
 
